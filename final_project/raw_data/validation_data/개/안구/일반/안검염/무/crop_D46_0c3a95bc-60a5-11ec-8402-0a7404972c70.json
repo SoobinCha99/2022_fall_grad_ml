@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D46_0c3a95bc-60a5-11ec-8402-0a7404972c70.png",
+			"date_time": "2021-03-18 00:00:00",
+			"device": "스마트폰",
+			"gender": 1,
+			"age": 3,
+			"breed": "비숑 프리제",
+			"medical_type": 1,
+			"width_height": [
+				1920,
+				1080
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				0,
+				0
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D46_0c3a95bc-60a5-11ec-8402-0a7404972c70.png",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/안검염/무/crop_D46_0c3a95bc-60a5-11ec-8402-0a7404972c70.png",
+		"label_deleted": 0,
+		"label_bbox": [
+			334.67,
+			736.18,
+			1008.45,
+			697.32
+		],
+		"label_disease_nm": "안검염",
+		"label_disease_lv_1": "무",
+		"label_disease_lv_2": "무",
+		"label_disease_lv_3": "무"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "C3_16a9c85b-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2014-07-08 00:00:00",
+			"device": "일반카메라",
+			"gender": 1,
+			"age": 0,
+			"breed": "히말라얀",
+			"medical_type": 1,
+			"width_height": [
+				1658,
+				1098
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				96,
+				96
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_C3_16a9c85b-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/고양이/안구/일반/각막궤양/무/crop_C3_16a9c85b-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			308.52,
+			543.49,
+			1181.22,
+			923.87
+		],
+		"label_disease_nm": "각막궤양",
+		"label_disease_lv_1": "무",
+		"label_disease_lv_2": "무",
+		"label_disease_lv_3": "무"
+	}
+}

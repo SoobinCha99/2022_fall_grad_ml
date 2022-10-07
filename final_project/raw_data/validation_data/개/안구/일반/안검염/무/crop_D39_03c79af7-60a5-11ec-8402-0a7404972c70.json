@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D39_03c79af7-60a5-11ec-8402-0a7404972c70.png",
+			"date_time": "2021-03-31 00:00:00",
+			"device": "스마트폰",
+			"gender": 0,
+			"age": 4,
+			"breed": "말티즈",
+			"medical_type": 1,
+			"width_height": [
+				4128,
+				3096
+			],
+			"eye_position": "왼쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D39_03c79af7-60a5-11ec-8402-0a7404972c70.png",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/안검염/무/crop_D39_03c79af7-60a5-11ec-8402-0a7404972c70.png",
+		"label_deleted": 0,
+		"label_bbox": [
+			1452.25,
+			963.3,
+			2108.52,
+			2313.2
+		],
+		"label_disease_nm": "안검염",
+		"label_disease_lv_1": "무",
+		"label_disease_lv_2": "무",
+		"label_disease_lv_3": "무"
+	}
+}

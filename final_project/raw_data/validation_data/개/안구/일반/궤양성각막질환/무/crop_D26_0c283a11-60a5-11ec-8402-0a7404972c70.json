@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D26_0c283a11-60a5-11ec-8402-0a7404972c70.png",
+			"date_time": "2021-06-20 00:00:00",
+			"device": "스마트폰",
+			"gender": 1,
+			"age": 3,
+			"breed": "미니어처 푸들",
+			"medical_type": 1,
+			"width_height": [
+				3024,
+				4032
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D26_0c283a11-60a5-11ec-8402-0a7404972c70.png",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/궤양성각막질환/무/crop_D26_0c283a11-60a5-11ec-8402-0a7404972c70.png",
+		"label_deleted": 0,
+		"label_bbox": [
+			1531.93,
+			1277.21,
+			1880.22,
+			1987.75
+		],
+		"label_disease_nm": "궤양성각막질환",
+		"label_disease_lv_1": "무",
+		"label_disease_lv_2": "무",
+		"label_disease_lv_3": "무"
+	}
+}

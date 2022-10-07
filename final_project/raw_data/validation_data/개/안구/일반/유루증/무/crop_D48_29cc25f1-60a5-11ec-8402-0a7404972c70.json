@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D48_29cc25f1-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-03-19 00:00:00",
+			"device": "스마트폰",
+			"gender": 0,
+			"age": 0,
+			"breed": "미니어처 푸들",
+			"medical_type": 1,
+			"width_height": [
+				1080,
+				1920
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				0,
+				0
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D48_29cc25f1-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/유루증/무/crop_D48_29cc25f1-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			574.53,
+			412.2,
+			693.13,
+			775.8
+		],
+		"label_disease_nm": "유루증",
+		"label_disease_lv_1": "무",
+		"label_disease_lv_2": "무",
+		"label_disease_lv_3": "무"
+	}
+}

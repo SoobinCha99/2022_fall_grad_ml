@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D52_2df86edd-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2020-04-07 00:00:00",
+			"device": "안구초음파",
+			"gender": 0,
+			"age": 13,
+			"breed": "시츄",
+			"medical_type": 1,
+			"width_height": [
+				617,
+				394
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				150,
+				150
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D52_2df86edd-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/안구초음파/유리체변성/하/crop_D52_2df86edd-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			0.0,
+			0.0,
+			617.0,
+			394.0
+		],
+		"label_disease_nm": "유리체변성",
+		"label_disease_lv_1": "하",
+		"label_disease_lv_2": "하",
+		"label_disease_lv_3": "하"
+	}
+}

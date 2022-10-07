@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D45_1252df7d-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-07-01 00:00:00",
+			"device": "검안경",
+			"gender": 0,
+			"age": 18,
+			"breed": "시츄",
+			"medical_type": 1,
+			"width_height": [
+				2592,
+				1944
+			],
+			"eye_position": "왼쪽눈",
+			"image_resolution": [
+				96,
+				96
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D45_1252df7d-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/결막염/유/crop_D45_1252df7d-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			0.0,
+			0.0,
+			2592.0,
+			1944.0
+		],
+		"label_disease_nm": "결막염",
+		"label_disease_lv_1": "유",
+		"label_disease_lv_2": "유",
+		"label_disease_lv_3": "유"
+	}
+}

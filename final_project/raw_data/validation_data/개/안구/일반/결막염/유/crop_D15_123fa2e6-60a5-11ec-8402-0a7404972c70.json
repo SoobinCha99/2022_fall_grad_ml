@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D15_123fa2e6-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2014-03-04 00:00:00",
+			"device": "검안경",
+			"gender": 0,
+			"age": 8,
+			"breed": "요크셔 테리어",
+			"medical_type": 1,
+			"width_height": [
+				2304,
+				1728
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D15_123fa2e6-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/결막염/유/crop_D15_123fa2e6-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			0.0,
+			0.0,
+			2304.0,
+			1728.0
+		],
+		"label_disease_nm": "결막염",
+		"label_disease_lv_1": "유",
+		"label_disease_lv_2": "유",
+		"label_disease_lv_3": "유"
+	}
+}

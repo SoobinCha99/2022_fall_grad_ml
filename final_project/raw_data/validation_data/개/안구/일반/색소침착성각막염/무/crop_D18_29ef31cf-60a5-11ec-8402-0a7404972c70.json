@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D18_29ef31cf-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-07-20 00:00:00",
+			"device": "스마트폰",
+			"gender": 1,
+			"age": 6,
+			"breed": "말티즈",
+			"medical_type": 1,
+			"width_height": [
+				3024,
+				4032
+			],
+			"eye_position": "왼쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D18_29ef31cf-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/색소침착성각막염/무/crop_D18_29ef31cf-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			1658.56,
+			1183.93,
+			1918.1,
+			2208.68
+		],
+		"label_disease_nm": "색소침착성각막염",
+		"label_disease_lv_1": "무",
+		"label_disease_lv_2": "무",
+		"label_disease_lv_3": "무"
+	}
+}

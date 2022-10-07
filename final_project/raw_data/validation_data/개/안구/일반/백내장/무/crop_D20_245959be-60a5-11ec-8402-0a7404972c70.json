@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D20_245959be-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-03-26 00:00:00",
+			"device": "스마트폰",
+			"gender": 1,
+			"age": 8,
+			"breed": "포메라니안",
+			"medical_type": 1,
+			"width_height": [
+				3024,
+				4032
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D20_245959be-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/백내장/무/crop_D20_245959be-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			1625.9,
+			1029.08,
+			1675.74,
+			2063.98
+		],
+		"label_disease_nm": "백내장",
+		"label_disease_lv_1": "무",
+		"label_disease_lv_2": "무",
+		"label_disease_lv_3": "무"
+	}
+}

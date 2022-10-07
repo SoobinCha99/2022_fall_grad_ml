@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D17_0c937e07-60a5-11ec-8402-0a7404972c70.png",
+			"date_time": "2021-05-17 00:00:00",
+			"device": "스마트폰",
+			"gender": 0,
+			"age": 11,
+			"breed": "슈나우저",
+			"medical_type": 1,
+			"width_height": [
+				4032,
+				3024
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D17_0c937e07-60a5-11ec-8402-0a7404972c70.png",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/비궤양성각막질환/무/crop_D17_0c937e07-60a5-11ec-8402-0a7404972c70.png",
+		"label_deleted": 0,
+		"label_bbox": [
+			764.93,
+			1558.01,
+			2250.68,
+			1639.64
+		],
+		"label_disease_nm": "비궤양성각막질환",
+		"label_disease_lv_1": "무",
+		"label_disease_lv_2": "무",
+		"label_disease_lv_3": "무"
+	}
+}

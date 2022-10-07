@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D40_34ee988a-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2020-03-19 00:00:00",
+			"device": "검안경",
+			"gender": 1.0,
+			"age": 12.0,
+			"breed": "푸들",
+			"medical_type": 1,
+			"width_height": [
+				"4355",
+				"2903"
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72.0,
+				72.0
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D40_34ee988a-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/안검종양/유/crop_D40_34ee988a-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			"0.0",
+			"0.0",
+			"4355.0",
+			"2903.0"
+		],
+		"label_disease_nm": "안검종양",
+		"label_disease_lv_1": "유",
+		"label_disease_lv_2": "유",
+		"label_disease_lv_3": "유"
+	}
+}

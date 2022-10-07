@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D9_20ca1d94-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2015-07-13 00:00:00",
+			"device": "검안경",
+			"gender": 0,
+			"age": 9,
+			"breed": "시츄",
+			"medical_type": 1,
+			"width_height": [
+				5184,
+				3456
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D9_20ca1d94-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/핵경화/유/crop_D9_20ca1d94-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			0.0,
+			0.0,
+			5184.0,
+			3456.0
+		],
+		"label_disease_nm": "핵경화",
+		"label_disease_lv_1": "무",
+		"label_disease_lv_2": "유",
+		"label_disease_lv_3": "유"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D24_2476ad0b-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-03-29 00:00:00",
+			"device": "스마트폰",
+			"gender": 0,
+			"age": 4,
+			"breed": "래브라도 리트리버",
+			"medical_type": 1,
+			"width_height": [
+				4608,
+				3456
+			],
+			"eye_position": "왼쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D24_2476ad0b-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/백내장/무/crop_D24_2476ad0b-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			1298.13,
+			2185.96,
+			2996.21,
+			2318.72
+		],
+		"label_disease_nm": "백내장",
+		"label_disease_lv_1": "무",
+		"label_disease_lv_2": "무",
+		"label_disease_lv_3": "무"
+	}
+}

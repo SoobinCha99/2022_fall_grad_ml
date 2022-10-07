@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D57_03d24148-60a5-11ec-8402-0a7404972c70.png",
+			"date_time": "2021-07-16 00:00:00",
+			"device": "스마트폰",
+			"gender": 0,
+			"age": 5,
+			"breed": "토이 푸들",
+			"medical_type": 1,
+			"width_height": [
+				3024,
+				4032
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D57_03d24148-60a5-11ec-8402-0a7404972c70.png",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/백내장/무/crop_D57_03d24148-60a5-11ec-8402-0a7404972c70.png",
+		"label_deleted": 0,
+		"label_bbox": [
+			1311.9,
+			1106.44,
+			1858.22,
+			1905.94
+		],
+		"label_disease_nm": "백내장",
+		"label_disease_lv_1": "무",
+		"label_disease_lv_2": "무",
+		"label_disease_lv_3": "무"
+	}
+}

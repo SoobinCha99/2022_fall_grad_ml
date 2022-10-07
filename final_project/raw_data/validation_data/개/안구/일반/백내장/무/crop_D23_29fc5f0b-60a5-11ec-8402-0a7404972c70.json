@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D23_29fc5f0b-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-04-04 00:00:00",
+			"device": "스마트폰",
+			"gender": 0,
+			"age": 0,
+			"breed": "믹스",
+			"medical_type": 1,
+			"width_height": [
+				4032,
+				3024
+			],
+			"eye_position": "왼쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D23_29fc5f0b-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/백내장/무/crop_D23_29fc5f0b-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			1037.65,
+			2136.4,
+			2863.1,
+			1559.34
+		],
+		"label_disease_nm": "백내장",
+		"label_disease_lv_1": "무",
+		"label_disease_lv_2": "무",
+		"label_disease_lv_3": "무"
+	}
+}

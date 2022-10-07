@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D4_2df96d7e-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2018-11-02 00:00:00",
+			"device": "안구초음파",
+			"gender": 1,
+			"age": 20,
+			"breed": "요크셔 테리어",
+			"medical_type": 1,
+			"width_height": [
+				687,
+				351
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				150,
+				150
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D4_2df96d7e-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/안구초음파/유리체변성/하/crop_D4_2df96d7e-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			0.0,
+			0.0,
+			687.0,
+			351.0
+		],
+		"label_disease_nm": "유리체변성",
+		"label_disease_lv_1": "하",
+		"label_disease_lv_2": "하",
+		"label_disease_lv_3": "하"
+	}
+}

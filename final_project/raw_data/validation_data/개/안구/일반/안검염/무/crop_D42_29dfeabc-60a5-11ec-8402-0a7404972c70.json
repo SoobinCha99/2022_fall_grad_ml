@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D42_29dfeabc-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-03-23 00:00:00",
+			"device": "스마트폰",
+			"gender": 0,
+			"age": 5,
+			"breed": "재패니즈 스피츠",
+			"medical_type": 1,
+			"width_height": [
+				4032,
+				3024
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D42_29dfeabc-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/안검염/무/crop_D42_29dfeabc-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			740.84,
+			2256.03,
+			3086.73,
+			1877.11
+		],
+		"label_disease_nm": "안검염",
+		"label_disease_lv_1": "무",
+		"label_disease_lv_2": "무",
+		"label_disease_lv_3": "무"
+	}
+}

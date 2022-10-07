@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D45_3acdbed7-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2012-08-22 00:00:00",
+			"device": "일반카메라",
+			"gender": 1,
+			"age": 9,
+			"breed": "시츄",
+			"medical_type": 1,
+			"width_height": [
+				3360,
+				2520
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				300,
+				300
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D45_3acdbed7-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/색소침착성각막염/유/crop_D45_3acdbed7-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			714.38,
+			1127.66,
+			2194.51,
+			1620.42
+		],
+		"label_disease_nm": "색소침착성각막염",
+		"label_disease_lv_1": "유",
+		"label_disease_lv_2": "유",
+		"label_disease_lv_3": "유"
+	}
+}

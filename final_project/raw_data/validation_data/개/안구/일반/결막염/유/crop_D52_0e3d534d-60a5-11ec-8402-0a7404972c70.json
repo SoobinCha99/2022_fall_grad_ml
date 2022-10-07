@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D52_0e3d534d-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2020-02-24 00:00:00",
+			"device": "검안경",
+			"gender": 1,
+			"age": 5,
+			"breed": "말티즈",
+			"medical_type": 1,
+			"width_height": [
+				2304,
+				1728
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D52_0e3d534d-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/결막염/유/crop_D52_0e3d534d-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			0.0,
+			0.0,
+			2304.0,
+			1728.0
+		],
+		"label_disease_nm": "결막염",
+		"label_disease_lv_1": "유",
+		"label_disease_lv_2": "유",
+		"label_disease_lv_3": "유"
+	}
+}

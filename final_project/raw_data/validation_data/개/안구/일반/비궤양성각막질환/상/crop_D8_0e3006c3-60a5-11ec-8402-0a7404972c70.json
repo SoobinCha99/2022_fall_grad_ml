@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D8_0e3006c3-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2020-10-21 00:00:00",
+			"device": "일반카메라",
+			"gender": 1,
+			"age": 12,
+			"breed": "시츄",
+			"medical_type": 1,
+			"width_height": [
+				4896,
+				3672
+			],
+			"eye_position": "왼쪽눈",
+			"image_resolution": [
+				350,
+				350
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D8_0e3006c3-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/비궤양성각막질환/상/crop_D8_0e3006c3-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			1567.39,
+			2068.53,
+			2773.56,
+			2171.01
+		],
+		"label_disease_nm": "비궤양성각막질환",
+		"label_disease_lv_1": "상",
+		"label_disease_lv_2": "상",
+		"label_disease_lv_3": "상"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D11_0c5e6488-60a5-11ec-8402-0a7404972c70.png",
+			"date_time": "2021-03-21 00:00:00",
+			"device": "스마트폰",
+			"gender": 1,
+			"age": 2,
+			"breed": "비숑 프리제",
+			"medical_type": 1,
+			"width_height": [
+				1080,
+				1920
+			],
+			"eye_position": "왼쪽눈",
+			"image_resolution": [
+				0,
+				0
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D11_0c5e6488-60a5-11ec-8402-0a7404972c70.png",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/결막염/무/crop_D11_0c5e6488-60a5-11ec-8402-0a7404972c70.png",
+		"label_deleted": 0,
+		"label_bbox": [
+			781.51,
+			421.35,
+			730.5,
+			979.05
+		],
+		"label_disease_nm": "결막염",
+		"label_disease_lv_1": "무",
+		"label_disease_lv_2": "무",
+		"label_disease_lv_3": "무"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D34_03613cd9-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-08-31 00:00:00",
+			"device": "일반카메라",
+			"gender": 1,
+			"age": 8,
+			"breed": "포메라니안",
+			"medical_type": 1,
+			"width_height": [
+				4896,
+				3672
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				350,
+				350
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D34_03613cd9-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/유루증/유/crop_D34_03613cd9-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			2029.5,
+			1770.22,
+			2511.17,
+			2585.85
+		],
+		"label_disease_nm": "유루증",
+		"label_disease_lv_1": "유",
+		"label_disease_lv_2": "유",
+		"label_disease_lv_3": "유"
+	}
+}

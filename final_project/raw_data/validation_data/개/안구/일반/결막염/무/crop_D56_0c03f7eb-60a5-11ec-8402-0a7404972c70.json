@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D56_0c03f7eb-60a5-11ec-8402-0a7404972c70.png",
+			"date_time": "2021-02-24 00:00:00",
+			"device": "스마트폰",
+			"gender": 0,
+			"age": 3,
+			"breed": "펨브록 웰시 코기",
+			"medical_type": 1,
+			"width_height": [
+				4032,
+				3024
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D56_0c03f7eb-60a5-11ec-8402-0a7404972c70.png",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/결막염/무/crop_D56_0c03f7eb-60a5-11ec-8402-0a7404972c70.png",
+		"label_deleted": 0,
+		"label_bbox": [
+			1171.4,
+			1232.13,
+			1901.53,
+			1893.25
+		],
+		"label_disease_nm": "결막염",
+		"label_disease_lv_1": "무",
+		"label_disease_lv_2": "무",
+		"label_disease_lv_3": "무"
+	}
+}

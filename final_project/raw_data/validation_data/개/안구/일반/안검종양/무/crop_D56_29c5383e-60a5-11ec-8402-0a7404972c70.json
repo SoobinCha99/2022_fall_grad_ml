@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D56_29c5383e-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-04-21 00:00:00",
+			"device": "스마트폰",
+			"gender": 1,
+			"age": 1,
+			"breed": "포메라니안",
+			"medical_type": 1,
+			"width_height": [
+				3024,
+				4032
+			],
+			"eye_position": "왼쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D56_29c5383e-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/안검종양/무/crop_D56_29c5383e-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			2026.98,
+			1110.5,
+			1715.58,
+			2507.49
+		],
+		"label_disease_nm": "안검종양",
+		"label_disease_lv_1": "무",
+		"label_disease_lv_2": "무",
+		"label_disease_lv_3": "무"
+	}
+}

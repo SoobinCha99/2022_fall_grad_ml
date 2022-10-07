@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D53_0c864674-60a5-11ec-8402-0a7404972c70.png",
+			"date_time": "2021-03-24 00:00:00",
+			"device": "스마트폰",
+			"gender": 1,
+			"age": 1,
+			"breed": "말티즈",
+			"medical_type": 1,
+			"width_height": [
+				1080,
+				1920
+			],
+			"eye_position": "왼쪽눈",
+			"image_resolution": [
+				0,
+				0
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D53_0c864674-60a5-11ec-8402-0a7404972c70.png",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/비궤양성각막질환/무/crop_D53_0c864674-60a5-11ec-8402-0a7404972c70.png",
+		"label_deleted": 0,
+		"label_bbox": [
+			754.47,
+			458.6,
+			743.03,
+			956.25
+		],
+		"label_disease_nm": "비궤양성각막질환",
+		"label_disease_lv_1": "무",
+		"label_disease_lv_2": "무",
+		"label_disease_lv_3": "무"
+	}
+}

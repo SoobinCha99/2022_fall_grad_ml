@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D57_0e409077-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-09-02 00:00:00",
+			"device": "일반카메라",
+			"gender": 0,
+			"age": 3,
+			"breed": "포메라니안",
+			"medical_type": 1,
+			"width_height": [
+				4896,
+				3672
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				350,
+				350
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D57_0e409077-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/안검내반증/유/crop_D57_0e409077-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			1496.36,
+			2122.51,
+			2854.05,
+			2119.96
+		],
+		"label_disease_nm": "안검내반증",
+		"label_disease_lv_1": "유",
+		"label_disease_lv_2": "유",
+		"label_disease_lv_3": "유"
+	}
+}

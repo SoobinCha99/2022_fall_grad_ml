@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D48_297d7362-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-02-16 00:00:00",
+			"device": "스마트폰",
+			"gender": 1,
+			"age": 0,
+			"breed": "알파인 닥스브라크",
+			"medical_type": 1,
+			"width_height": [
+				4032,
+				3024
+			],
+			"eye_position": "왼쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D48_297d7362-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/안검염/무/crop_D48_297d7362-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			1258.21,
+			1898.89,
+			2454.36,
+			1836.96
+		],
+		"label_disease_nm": "안검염",
+		"label_disease_lv_1": "무",
+		"label_disease_lv_2": "무",
+		"label_disease_lv_3": "무"
+	}
+}

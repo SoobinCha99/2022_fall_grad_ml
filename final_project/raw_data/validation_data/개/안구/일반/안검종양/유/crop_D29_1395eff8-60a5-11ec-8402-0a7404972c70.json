@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D29_1395eff8-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2015-03-09 00:00:00",
+			"device": "일반카메라",
+			"gender": 1,
+			"age": 10,
+			"breed": "알래스카 말라뮤트",
+			"medical_type": 1,
+			"width_height": [
+				4000,
+				3000
+			],
+			"eye_position": "왼쪽눈",
+			"image_resolution": [
+				300,
+				300
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D29_1395eff8-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/안검종양/유/crop_D29_1395eff8-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			653.96,
+			1529.31,
+			2705.08,
+			1509.64
+		],
+		"label_disease_nm": "안검종양",
+		"label_disease_lv_1": "유",
+		"label_disease_lv_2": "유",
+		"label_disease_lv_3": "유"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D49_0e218283-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2020-07-22 00:00:00",
+			"device": "일반카메라",
+			"gender": 0,
+			"age": 8,
+			"breed": "믹스",
+			"medical_type": 1,
+			"width_height": [
+				2592,
+				1944
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				96,
+				96
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D49_0e218283-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/백내장/초기/crop_D49_0e218283-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			544.43,
+			432.01,
+			1773.9,
+			1756.19
+		],
+		"label_disease_nm": "백내장",
+		"label_disease_lv_1": "초기",
+		"label_disease_lv_2": "초기",
+		"label_disease_lv_3": "초기"
+	}
+}

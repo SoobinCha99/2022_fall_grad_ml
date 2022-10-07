@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D28_12503071-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2020-06-09 00:00:00",
+			"device": "검안경",
+			"gender": 0,
+			"age": 7,
+			"breed": "샤페이",
+			"medical_type": 1,
+			"width_height": [
+				2048,
+				1536
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D28_12503071-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/비궤양성각막질환/상/crop_D28_12503071-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			0.0,
+			0.0,
+			2048.0,
+			1536.0
+		],
+		"label_disease_nm": "비궤양성각막질환",
+		"label_disease_lv_1": "상",
+		"label_disease_lv_2": "상",
+		"label_disease_lv_3": "상"
+	}
+}

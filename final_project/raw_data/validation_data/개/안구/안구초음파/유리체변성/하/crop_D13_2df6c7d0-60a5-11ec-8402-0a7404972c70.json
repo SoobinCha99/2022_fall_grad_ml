@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D13_2df6c7d0-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2017-10-10 00:00:00",
+			"device": "안구초음파",
+			"gender": 1,
+			"age": 13,
+			"breed": "말티즈",
+			"medical_type": 1,
+			"width_height": [
+				681,
+				507
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				150,
+				150
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D13_2df6c7d0-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/안구초음파/유리체변성/하/crop_D13_2df6c7d0-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			0.0,
+			0.0,
+			681.0,
+			507.0
+		],
+		"label_disease_nm": "유리체변성",
+		"label_disease_lv_1": "하",
+		"label_disease_lv_2": "하",
+		"label_disease_lv_3": "하"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D8_0c211611-60a5-11ec-8402-0a7404972c70.png",
+			"date_time": "2021-03-13 00:00:00",
+			"device": "스마트폰",
+			"gender": 1,
+			"age": 5,
+			"breed": "포메라니안",
+			"medical_type": 1,
+			"width_height": [
+				4032,
+				3024
+			],
+			"eye_position": "왼쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D8_0c211611-60a5-11ec-8402-0a7404972c70.png",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/결막염/무/crop_D8_0c211611-60a5-11ec-8402-0a7404972c70.png",
+		"label_deleted": 0,
+		"label_bbox": [
+			1085.39,
+			1584.58,
+			2257.69,
+			2140.51
+		],
+		"label_disease_nm": "결막염",
+		"label_disease_lv_1": "무",
+		"label_disease_lv_2": "무",
+		"label_disease_lv_3": "무"
+	}
+}

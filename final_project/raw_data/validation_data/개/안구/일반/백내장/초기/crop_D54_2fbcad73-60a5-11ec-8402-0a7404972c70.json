@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D54_2fbcad73-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2014-08-05 00:00:00",
+			"device": "검안경",
+			"gender": 0,
+			"age": 11,
+			"breed": "말티즈",
+			"medical_type": 1,
+			"width_height": [
+				1935,
+				1451
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D54_2fbcad73-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/백내장/초기/crop_D54_2fbcad73-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			0.0,
+			0.0,
+			1935.0,
+			1451.0
+		],
+		"label_disease_nm": "백내장",
+		"label_disease_lv_1": "초기",
+		"label_disease_lv_2": "초기",
+		"label_disease_lv_3": "초기"
+	}
+}

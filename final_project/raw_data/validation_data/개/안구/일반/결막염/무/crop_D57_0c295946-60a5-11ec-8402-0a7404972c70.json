@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D57_0c295946-60a5-11ec-8402-0a7404972c70.png",
+			"date_time": "2021-04-05 00:00:00",
+			"device": "스마트폰",
+			"gender": 0,
+			"age": 0,
+			"breed": "말티즈",
+			"medical_type": 1,
+			"width_height": [
+				3024,
+				4032
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D57_0c295946-60a5-11ec-8402-0a7404972c70.png",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/결막염/무/crop_D57_0c295946-60a5-11ec-8402-0a7404972c70.png",
+		"label_deleted": 0,
+		"label_bbox": [
+			1492.1,
+			1200.06,
+			1976.59,
+			2006.79
+		],
+		"label_disease_nm": "결막염",
+		"label_disease_lv_1": "무",
+		"label_disease_lv_2": "무",
+		"label_disease_lv_3": "무"
+	}
+}

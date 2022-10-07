@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D1_36a5afee-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-09-17 00:00:00",
+			"device": "일반카메라",
+			"gender": 0,
+			"age": 5,
+			"breed": "말티즈",
+			"medical_type": 1,
+			"width_height": [
+				3387,
+				2541
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D1_36a5afee-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/안검내반증/유/crop_D1_36a5afee-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			673.27,
+			1756.12,
+			2664.79,
+			1629.99
+		],
+		"label_disease_nm": "안검내반증",
+		"label_disease_lv_1": "유",
+		"label_disease_lv_2": "유",
+		"label_disease_lv_3": "유"
+	}
+}

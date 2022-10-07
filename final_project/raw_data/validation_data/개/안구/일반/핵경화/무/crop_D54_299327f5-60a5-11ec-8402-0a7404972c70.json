@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D54_299327f5-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-02-22 00:00:00",
+			"device": "스마트폰",
+			"gender": 0,
+			"age": 1,
+			"breed": "닥스훈트",
+			"medical_type": 1,
+			"width_height": [
+				1920,
+				1080
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_D54_299327f5-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/개/안구/일반/핵경화/무/crop_D54_299327f5-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			395.63,
+			945.04,
+			1192.29,
+			745.6
+		],
+		"label_disease_nm": "핵경화",
+		"label_disease_lv_1": "무",
+		"label_disease_lv_2": "무",
+		"label_disease_lv_3": "무"
+	}
+}
